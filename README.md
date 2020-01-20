@@ -3,6 +3,9 @@ A Katamari Damacy homage with a twist
 
 <img src="Assets/Textures/goodEnd.png?raw=true"/>
 
+#### Contributors:
+* [Nathan Stoner](https://github.com/Naxhi)
+
 ## The Game
 
 Communisuto Damacy is the sequel to Grover Man. In this game, the Communists have formed a plan to defeat the Capitalists by using a secret weapon, the glorious ball of stuff. You play as this ball in your first mission: disruption of a Pentagon office. In order to protect your nation, you will have to grow large enough to make your creators see your use, which will lead to the development of a greater weapon. 
