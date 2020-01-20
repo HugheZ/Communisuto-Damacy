@@ -24,5 +24,4 @@ This program is more of a tech demo than a balanced game, but it may provide a f
 * Collider change for irregular shapes
 * Two endings
 
-## Note:
-Due to Unity's lightmap file compression, the lightmap for the main scene had to be removed. This is because the scene itself is overscaled despite being small. For lighting to work, this will need to be rebaked.
+> **Note**: Due to Unity's lightmap file compression, the lightmap for the main scene had to be removed. This is because the scene itself is overscaled despite being small. For lighting to work, this will need to be rebaked.
